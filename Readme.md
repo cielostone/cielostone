@@ -27,7 +27,7 @@ Apasionada por la tecnología, el diseño y la construcción de soluciones digit
 
 ---
 
-### 📊 Habilidades
+### Habilidades
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,10 +38,10 @@ Apasionada por la tecnología, el diseño y la construcción de soluciones digit
 </p>
 
 ---
-### 📊 Mi camino
-Aprendiendo cada día sobre programación y bases de datos.  
-Creando proyectos pequeños pero significativos.  
-Mi meta: crecer como desarrolladora y aportar con soluciones útiles.  
+### Mi camino :)
+- Aprendiendo cada día sobre programación y bases de datos.  
+- Creando proyectos pequeños pero significativos.  
+- Mi meta: crecer como desarrolladora y aportar con soluciones útiles.  
 
 ---
 
