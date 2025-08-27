@@ -27,16 +27,15 @@ Apasionada por la tecnología, el diseño y la construcción de soluciones digit
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cielostxne&show_icons=true&theme=dracula" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielostxne&layout=compact&theme=dracula" alt="top langs" />
-</p>
-
+### 📊 Habilidades
 <p>
-  <img height="180" src="https://streak-stats.demolab.com?user=cielostxne&theme=dracula" alt="streak" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
 ---
 
 ### 📫 Contacto
