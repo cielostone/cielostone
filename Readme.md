@@ -11,7 +11,7 @@ Apasionada por la tecnología, el diseño y la construcción de soluciones digit
 
 ---
 
-### 💡 Sobre mí
+### Sobre mí
 - Actualmente estudiando Programación y Análisis de Sistemas 🎓
 - Con formación previa en Diseño Gráfico 📚 
 - Complemento mi aprendizaje con cursos en Platzi y Generation Chile (SQL, Full-Stack JS, Full-Stack Java, Data Science) 🚀 
@@ -27,7 +27,7 @@ Apasionada por la tecnología, el diseño y la construcción de soluciones digit
 
 ---
 
-### 📊 Habilidades
+### Habilidades
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,7 +38,7 @@ Apasionada por la tecnología, el diseño y la construcción de soluciones digit
 </p>
 ---
 
-### 📫 Contacto
+### Contacto
 - 📎 [LinkedIn](https://www.linkedin.com/in/cielo-j-stone-53b4a3198/)  
 - 📸 [Instagram](https://www.instagram.com/cielostxne/)  
 - 📧 cielo.stone@gmail.com  
