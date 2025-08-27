@@ -12,10 +12,10 @@ Apasionada por la tecnología, el diseño y la construcción de soluciones digit
 ---
 
 ### Sobre mí
-- Actualmente estudiando Programación y Análisis de Sistemas 🎓
-- Con formación previa en Diseño Gráfico 📚 
-- Complemento mi aprendizaje con cursos en Platzi y Generation Chile (SQL, Full-Stack JS, Full-Stack Java, Data Science) 🚀 
-- Experiencia en áreas administrativas, logística y digitación, con un enfoque **organizado y orientado al detalle**.  👩🏼‍💻
+- Actualmente estudiando Programación y Análisis de Sistemas
+- Con formación previa en Diseño Gráfico  
+- Complemento mi aprendizaje con cursos en Platzi y Generation Chile (SQL, Full-Stack JS, Full-Stack Java, Data Science) 
+- Experiencia en áreas administrativas, logística y digitación, con un enfoque **organizado y orientado al detalle**.
 - 😺 Amante de los gatos 💜.  
 
 ---
