@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cielobanner.png" alt="Banner de Cielo" />
+  <img src="banner.gif" alt="Banner de Cielo" />
 </p>
 
 <h1 align="center">Hola, soy Cielo 👋</h1>
